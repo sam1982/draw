@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T12:31:11.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="Cp-k1a2fHYWVpB9AlkGw" version="12.1.3" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-10-21T12:51:04.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="Y37RMR4wV8BPIm19SDIh" version="12.1.3" type="github" pages="7">
   <diagram id="2Yey8G1qUkvAdq2EXQSQ" name="第 1 页">
     <mxGraphModel dx="1360" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -528,6 +528,12 @@
         <mxCell id="LDde4GMp7c-thHM9mIXl-41" value="+accountManager&#xa;+teller&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="LDde4GMp7c-thHM9mIXl-40">
           <mxGeometry y="30" width="160" height="90" as="geometry"/>
         </mxCell>
+        <mxCell id="LDde4GMp7c-thHM9mIXl-55" value="OpenDetail" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="vxTiKY2ISjZA_pXWul-K-1">
+          <mxGeometry x="730" y="1060" width="160" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="LDde4GMp7c-thHM9mIXl-56" value="+operateDate&#xa;+operateType&#xa;+status&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="LDde4GMp7c-thHM9mIXl-55">
+          <mxGeometry y="30" width="160" height="90" as="geometry"/>
+        </mxCell>
         <mxCell id="LDde4GMp7c-thHM9mIXl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vxTiKY2ISjZA_pXWul-K-1" source="LDde4GMp7c-thHM9mIXl-3" target="LDde4GMp7c-thHM9mIXl-31">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
@@ -548,6 +554,9 @@
         </mxCell>
         <mxCell id="LDde4GMp7c-thHM9mIXl-53" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="LDde4GMp7c-thHM9mIXl-52">
           <mxGeometry y="30" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="LDde4GMp7c-thHM9mIXl-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vxTiKY2ISjZA_pXWul-K-1" source="LDde4GMp7c-thHM9mIXl-41" target="LDde4GMp7c-thHM9mIXl-56">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
