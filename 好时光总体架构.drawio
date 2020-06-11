@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T06:09:21.123Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="1sjDBFe7lCzSyxAYuIOa" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-11T06:09:40.881Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="jT6MuqPI9RF0cLOmIAN1" version="13.2.1" type="github">
   <diagram id="s2SYgq11OWQNhYOBwH3P" name="Page-1">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="_U7QHXg-yMUHjmqAdrOl-21" value="单号、OSS、字典..." style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="570" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_U7QHXg-yMUHjmqAdrOl-22" value="第三方集成服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_U7QHXg-yMUHjmqAdrOl-22" value="第三方对接服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="580" y="480" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_U7QHXg-yMUHjmqAdrOl-23" value="同步时、微信..." style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
